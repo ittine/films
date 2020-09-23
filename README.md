@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Shooting of the sequel to "Fantastic Beasts" has resumed.
 
-You can use the [editor on GitHub](https://github.com/ittine/films/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](Fantastic Beasts2.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After a long break in England, work resumed on the third film in the series "Fantastic creatures and where they live. Eddie Redmayne, Newt Salamander's role in the movie, told CinemaBlend.
 
-### Markdown
+*"We started shooting. It's been two weeks and again it's a whole new process,"* said Redmain. - It's a completely new norm," says Redmain. And I wondered if masks would affect creativity in any way. It may be a little silly, but I just wondered if people need interaction to inspire each other. What's really encouraging is that it's a different process, but it still seems to be first class and everyone works at the highest level.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Originally, the sequel to Green De Valda's Crimes was to be released in the fall of 2020, but the studio decided to give screenwriters and directors more time to prepare for the film. 
 
-```markdown
-Syntax highlighted code block
+ It is known that the action of the sequel will unfold in Brazil, in Rio de Janeiro.
 
-# Header 1
-## Header 2
-### Header 3
+- Now the premiere of "Fantastic Beasts 3" is scheduled for November 12, 2021.
 
-- Bulleted
-- List
+![Branching]FantasticBeasts1.jpg()
 
-1. Numbered
-2. List
+In an interview with Syfy Wire actor Jacob Kowalski Dan Vogler said that the third film of the franchise "Fantastic Beasts and where they live" will be in spirit closer to the first part. The actor also hinted that in the future the audience of the series will face a large-scale war with epic battles.
 
-**Bold** and _Italic_ and `Code` text
+*"I can say that I read the script,"* says Vogler. - There is a very nice development of characters, and in spirit he is closer to the first film, which, to me, is excellent. It leads to a massive war on the background of World War II, so you can imagine what epic battles await you.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ittine/films/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The large-scale war that Fogler talks about is the final confrontation between the Green de Wald and Dumbledore, as a result of which the latter received the Elder Wand, one of the gifts of death. But before that, the future director of Hogwarts must find a way to break the spell, which forbids him to fight with his former friend and beloved. Presumably, one of the three planned sequels will be devoted to it.
