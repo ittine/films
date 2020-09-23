@@ -1,6 +1,6 @@
 # Shooting of the sequel to "Fantastic Beasts" has resumed.
 
-![Branching](Fantastic Beasts2.jpg)
+![Branching](FantasticBeasts2.jpg)
 
 After a long break in England, work resumed on the third film in the series "Fantastic creatures and where they live. Eddie Redmayne, Newt Salamander's role in the movie, told CinemaBlend.
 
