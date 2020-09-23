@@ -12,7 +12,7 @@ Originally, the sequel to Green De Valda's Crimes was to be released in the fall
 
 - Now the premiere of "Fantastic Beasts 3" is scheduled for November 12, 2021.
 
-![Branching]FantasticBeasts1.jpg()
+![Branching](FantasticBeasts1.jpg)
 
 In an interview with Syfy Wire actor Jacob Kowalski Dan Vogler said that the third film of the franchise "Fantastic Beasts and where they live" will be in spirit closer to the first part. The actor also hinted that in the future the audience of the series will face a large-scale war with epic battles.
 
